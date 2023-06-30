@@ -18,7 +18,7 @@ const App = () => {
       </div>
       <div className='sdsdss' onClick={showSidebar}>
       <div>
-        fffff
+          go home
       </div>
       </div>
     </div>
